@@ -1,0 +1,1 @@
+# qa_quru_HW7_python_file
