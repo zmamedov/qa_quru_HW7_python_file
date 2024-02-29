@@ -1,4 +1,3 @@
-from io import TextIOWrapper
 from zipfile import ZipFile
 from tests.settings import ARCHIVE
 from pypdf import PdfReader
